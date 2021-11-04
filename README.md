@@ -3,7 +3,7 @@
 <p align='center'>
 <img height='275px' width='260px' src='https://raw.githubusercontent.com/perseu912/candphy/main/img/Candphy.png' style='height:450; witdh:200'>
  <br/>
-<a href="https://github.com/perseu912"><img title="Autor" src="https://img.shields.io/badge/Autor-reinan_br-blue.svg?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/BezerraReinan"><img title="Autor" src="https://img.shields.io/badge/Autor-reinan_br-blue.svg?style=for-the-badge&logo=twitter"></a>
 <br/>
 <p align='center'>
 <!-- github dados -->
