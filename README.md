@@ -80,6 +80,6 @@ Exact sample rate is: 3100000.092387 Hz
 Reattached kernel driver
 {'freq_center': 99900000.0, 'freq_rate': 3100000.0, 'bytes': 1024, 'order': 1000000.0, 'size_signal': 262144, 'samples': array([-0.00392157-0.00392157j, -0.00392157-0.00392157j,
        -0.00392157-0.00392157j, ...,  0.1372549 -0.0745098j ,
-       -0.10588235+0.15294118j, -0.16078431+0.10588235j]), 'type': 'signal_radio'}
-    
+       -0.10588235+0.15294118j, -0.16078431+0.10588235j]), 'type': 'signal_radio'}    
 ```
+<img height='270px' src='https://raw.githubusercontent.com/perseu912/candphy/main/tests/signal_radio_plot.png' >
