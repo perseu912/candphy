@@ -17,7 +17,7 @@ import numpy as np
 from astropy.time import Time
 
 class Gwaves_Data():
-  def __init__(self,dir='.data_gwaves',file_data='data_gw',type_data='excel'):
+  def __init__(self,dir='.data_gwaves',file_data='data_gw',type_data='xlsx'):
     if os.path.isdir(dir):
       self.dir = dir
     else:
@@ -28,7 +28,7 @@ class Gwaves_Data():
     self.path_data = path_data
     
     if os.path.isfile(path_data):
-      if type_data=='excel':
+      if type_data=='xlsx':
         data_gw = pd.read_excel(path_data)
     
     else:
@@ -55,7 +55,7 @@ class Gwaves_Data():
       assert len(data_gw['Name'])==len(links_gwave),"size of data gwaves e links from it's dataset is diference!"
       data_gw['Link']=links_gwave
       
-      if type_data=='excel':
+      if type_data=='xlsx':
         data_gw.to_excel(path_data)
 
     ##creating a dict of gwaves_names_data##

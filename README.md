@@ -51,9 +51,9 @@ C\:> python3 -m pip3 install candphy -U
 #  Examples
 <hr/>
 
-## Waves
+# Waves
 
-### Signal Radio 
+## Signal Radio 
 (need the RTL-SDR driver)
 
 ```py
@@ -92,9 +92,9 @@ signal radio:
 
 <hr>
 
-### Gravitational Waves
+## Gravitational Waves
 
-#### working data
+### working data
 
 getting the data:
 ```py
@@ -145,7 +145,7 @@ Index(['Name', 'Version', 'Release', 'GPS', 'Mass 1 (M☉)', 'Mass 2 (M☉)',
        'False Alarm Rate (yr-1)', 'Final Mass (M☉)', 'Date', 'Link'],
       dtype='object')
 ```
-#### plotting signal
+### plotting signal
 ```py
 from candphy.waves import gwaves
 

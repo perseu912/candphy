@@ -19,6 +19,7 @@ soundfile = "*"
 pandas = "*"
 requests = "*"
 bs4 = "*"
+openpyxl = "*"
 
 [dev-packages]
 
