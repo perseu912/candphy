@@ -9,21 +9,9 @@
 <!-- github dados -->
 <a href='https://python.org'><img src='https://img.shields.io/github/pipenv/locked/python-version/perseu912/candphy'></a>
 <a href='#'><img src='https://img.shields.io/github/languages/code-size/perseu912/candphy'></a>
-<a href='#'><img src='https://img.shields.io/github/commit-activity/w/perseu912/candphy'></a>
-<a href='#'><img src='https://img.shields.io/github/last-commit/perseu912/candphy'></a>
-<br/>
-<!-- sites de pacotes -->
+<a href='#'><img src='https://img.shields.io/github/commit-activity/y/perseu912/candphy'></a><br/>
 <a href='https://pypi.org/project/candphy/'><img src='https://img.shields.io/pypi/v/candphy'></a>
-<a href='#'><img src='https://img.shields.io/pypi/wheel/candphy'></a>
-<a href='#'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dd/candphy"></a>
-<a href='#'><img src='https://img.shields.io/pypi/implementation/candphy'></a>
-<br/>
-<!-- outros premios e analises -->
-<a href='#'><img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/perseu912/candphy?logo=codefactor">
-</a>
-<!-- redes sociais -->
-<br/>
-<a href='https://instagram.com/gpftc_ifsertao/'><img src='https://shields.io/badge/insta-gpftc_ifsertao-violet?logo=instagram&style=flat'></a>
+<a href='#'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/candphy"></a>
 </p>
 </p>
 <p align='center'> <b>Library from Python3.+ for development,  works, researches, and more other works and projects on the more points of physic  📈📊</b></p>
