@@ -1,4 +1,4 @@
-from toddy import puts,logs
+from kitano import puts
 
 show_logs = False
 

@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
 
 setup(name='candphy',
     version='0.0.2021',
-    url='https://github.com/perseu912/candphy',
+    url='https://github.com/reinanbr/candphy',
     license='MIT License',
     author='Reinan Br',
     long_description=readme,
     long_description_content_type="text/markdown",
     author_email='slimchatuba@gmail.com',
-    keywords='covid-19 covid api data science',
+    keywords='data science',
     description=u'Library for works in the physical projects',
     packages=find_packages(),
     install_requires=['openpyxl','pyrtlsdr','bs4','requests','soundfile','pandas','h5py','astropy','scipy','toddy','numpy','matplotlib','pillow','qutip'],)
